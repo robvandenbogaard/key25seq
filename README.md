@@ -1,5 +1,9 @@
 # key25seq
-A PureData song sequencer for use with the Akai APC Key25 USB MIDI controller.
+
+A PureData song sequencer for use with the Akai APC Key25 USB MIDI controller, based on Martin
+Brinkmann's "Sequenzquadrat".
+
+![screenshot](key25seq.png "PureData top level code")
 
 Still needs a lot of work to actually be usable as a sequencer of rhythm, bass and chord patterns.
 
@@ -12,4 +16,4 @@ Still needs a lot of work to actually be usable as a sequencer of rhythm, bass a
 - [ ] Clip select mode (pressing SELECT, making its green led flash while in select mode)
 - [ ] ..and a lot more
 
-![screenshot](key25seq.png "PureData top level code")
+![hardware](key25leds.jpg "Pattern editing using the clip select buttons of the Key25")
